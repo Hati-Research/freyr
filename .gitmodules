@@ -1,0 +1,4 @@
+[submodule "microros-rs/micro_ros_raspberrypi_pico_sdk"]
+	path = microros-rs/micro_ros_raspberrypi_pico_sdk
+	url = https://github.com/micro-ROS/micro_ros_raspberrypi_pico_sdk.git
+	branch = humble
